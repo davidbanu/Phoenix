@@ -2078,7 +2078,7 @@ li {
   border-right: 32px solid #fff;
 }
 .wrapper__in.equality:after {
-  content: 'eQuality';
+  content: 'Phoenix';
   letter-spacing: -0.03em;
   font-family: ProximaNova-Bold;
   text-rendering: auto;
@@ -2088,7 +2088,7 @@ li {
   margin-left: -350px;
   left: 50%;
   font-size: 200px;
-  color: #80d532;
+  color: #000000;
   opacity: 0.5;
   z-index: 2;
 }
@@ -2242,7 +2242,7 @@ html.no-scroll {
   background-color: #fff;
 }
 .mobile-width .homepage-mobile .homepage-mobile_block.red {
-  background-color: #1da1f2;
+  background-color: #0051ad;
 }
 .mobile-width .homepage-mobile .homepage-mobile_block.red h3 {
   color: #fff;
@@ -2279,11 +2279,11 @@ a.button__logo {
   margin: 5px 58px 12px 0px;
   box-sizing: border-box;
   transition: opacity 150ms linear;  
-  content: 'eQuality';
+  content: 'Phoenix';
   letter-spacing: -0.03em;
   font-size:30px;
   opacity: 1;
-  color:#80d532;
+  color:#000000;
   font-family: ProximaNova-Bold;
   background-position: center top;
   text-decoration: none;
@@ -2291,12 +2291,12 @@ a.button__logo {
 @media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
   .button__logo,
   a.button__logo {
-  content: 'eQuality';
+  content: 'Phoenix';
   letter-spacing: -0.03em;
   font-family: ProximaNova-Bold;
   font-size:30px;
   opacity: 1;
-  color:#80d532;
+  color:#000000;
   }
 }
 .button__logo:hover,
@@ -2314,7 +2314,7 @@ a.button__logo:hover {
   display: inline-block;
   float: none;
   margin: 12px 0;  
-  content: 'eQuality';
+  content: 'Phoenix';
   letter-spacing: -0.03em;
   font-family: ProximaNova-Bold;
   background-position: center top;
@@ -2322,12 +2322,12 @@ a.button__logo:hover {
 @media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
   .main-menu__nav-top .button__logo,
   .main-menu__nav-top a.button__logo {
-  content: 'eQuality';
+  content: 'Phoenix';
   letter-spacing: -0.03em;
   font-family: ProximaNova-Bold;
   font-size:30px;
   opacity: 1;
-  color:#80d532;
+  color:#000000;
   }
 }
 .button__nav,
@@ -2350,11 +2350,11 @@ a.button__nav {
 }
 .button__nav:hover,
 a.button__nav:hover {
-  color: #1da1f2;
+  color: #0051ad;
 }
 .button__nav.active,
 a.button__nav.active {
-  color: #1da1f2;
+  color: #0051ad;
 }
 .button__nav.active:after,
 a.button__nav.active:after {
@@ -2364,7 +2364,7 @@ a.button__nav.active:after {
   left: 50%;
   height: 2px;
   transition: width 150ms ease-in-out;
-  background-color: #1da1f2;
+  background-color: #0051ad;
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
@@ -2391,7 +2391,7 @@ a.button__nav.active:after {
 }
 .main-menu__opened .button__nav.active,
 .main-menu__opened a.button__nav.active {
-  color: #1da1f2;
+  color: #0051ad;
 }
 .main-menu__opened .button__nav.active:after,
 .main-menu__opened a.button__nav.active:after {
@@ -2433,7 +2433,7 @@ a.button__nav.active:after {
   float: left;
 }
 .button__download:hover {
-  background-color: #1da1f2;
+  background-color: #0051ad;
 }
 @media (max-width: 900px) {
   .button__download {
@@ -2524,7 +2524,7 @@ a.button__social .fa.fa-instagram {
 }
 .button__social:hover,
 a.button__social:hover {
-  color: #1da1f2;
+  color: #0051ad;
 }
 .button__social:hover .fa,
 a.button__social:hover .fa {
@@ -2548,7 +2548,7 @@ a.button__next {
   -webkit-transform: translate3d(0, 0, 0);
   right: 62px;
   bottom: 49px;
-  background-color: #1da1f2;
+  background-color: #0051ad;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -2695,7 +2695,7 @@ a.button_nextPage {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   z-index: 57;
-  color: #1da1f2;
+  color: #0051ad;
   display: none;
   font-size: 33px;
   padding-right: 60px;
@@ -2731,7 +2731,7 @@ a.button_nextPage:hover {
 .button__tags .button__tag:hover,
 .button__tags a.button__tag:hover {
   color: #fff;
-  background-color: #1da1f2;
+  background-color: #0051ad;
 }
 /*
 * mobile.fix
@@ -3028,12 +3028,12 @@ a.button_open-menu .fa {
 .main-menu_nav-bottom-close a.button__logo {
   margin: 12px auto;
   float: none; 
-  content: 'eQuality';
+  content: 'Phoenix';
   letter-spacing: -0.03em;
   font-family: ProximaNova-Bold;
   font-size:30px;
   opacity: 1;
-  color:#80d532;
+  color:#000000;
 }
 .main-menu_nav-bottom-social {
   display: block;
@@ -3109,7 +3109,7 @@ a.button_open-menu .fa {
   width: 4px;
   display: block;
   float: left;
-  background-color: #1da1f2;
+  background-color: #0051ad;
 }
 .scrollbar_progress a.barTouch {
   position: absolute;
@@ -3163,7 +3163,7 @@ a.button_open-menu .fa {
 }
 .buble h4 {
   font-size: 50px;
-  color: #1da1f2;
+  color: #0051ad;
   letter-spacing: -0.03em;
   font-family: ProximaNova-Bold;
   text-rendering: auto;
@@ -3192,7 +3192,7 @@ a.button_open-menu .fa {
   background-image: url('../img/buble_white.png');
 }
 .buble__orange {
-  background-color: #1da1f2;
+  background-color: #0051ad;
 }
 .buble__orange h4,
 .buble__orange p {
@@ -3445,7 +3445,7 @@ a.button_open-menu .fa {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   line-height: 360px;
-  color: #1da1f2;
+  color: #0051ad;
   position: absolute;
   top: 50%;
   right: 50%;
@@ -3543,7 +3543,7 @@ a.button_open-menu .fa {
   padding-right: 80px;
 }
 .blog-article__right h2 {
-  color: #1da1f2;
+  color: #0051ad;
   font-size: 50px;
   padding-right: 28px;
   letter-spacing: -0.03em;
@@ -3608,7 +3608,7 @@ a.button_open-menu .fa {
   transition: color 150ms linear;
 }
 .blog-article__left ul li a:hover {
-  color: #1da1f2;
+  color: #0051ad;
 }
 @media (max-width: 728px) {
   .blog-article__left {
@@ -3695,7 +3695,7 @@ a.button_open-menu .fa {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   font-size: 50px;
-  color: #1da1f2;
+  color: #0051ad;
   margin: 5px 0;
   line-height: 1em;
 }
@@ -3794,7 +3794,7 @@ a.button_open-menu .fa {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   font-size: 30px;
-  color: #1da1f2;
+  color: #0051ad;
   text-decoration: none;
   transition: color 150ms linear;
   margin: 35px 0 18px;
@@ -3894,7 +3894,7 @@ a.button_open-menu .fa {
     margin: 0 11px;
     border-radius: 50%;
     */
-  border: 1px solid #1da1f2;
+  border: 1px solid #0051ad;
   border-radius: 50%;
   display: inline-block;
   height: 6px;
@@ -3902,7 +3902,7 @@ a.button_open-menu .fa {
   width: 6px;
 }
 .mobile-slider__controlls a.circle.active {
-  background-color: #1da1f2;
+  background-color: #0051ad;
 }
 .mobile-slider__txt {
   display: block;
@@ -3914,7 +3914,7 @@ a.button_open-menu .fa {
   z-index: 13;
 }
 .mobile-slider__txt h3 {
-  color: #1da1f2;
+  color: #0051ad;
   margin-bottom: 13px ;
 }
 .mobile-slider__txt p {
